@@ -1,6 +1,6 @@
 <template>
     <main v-if="users" class="min-height custom-width flex flex-col items-center justify-center gap-7">
-        <h1 class="text-4xl font-bold text-black">People using
+        <h1 class="text-4xl font-bold text-black text-center">People using
             <span class="font-black">
                 My<span class="text-primary">links</span>
             </span>
