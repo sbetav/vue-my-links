@@ -6,7 +6,7 @@
             </span>
         </h1>
 
-        <div class="max-w-sm w-full flex flex-col items-center justify-center">
+        <div class="max-w-sm w-full flex flex-col gap-4 items-center justify-center">
             <router-link to="/" class="underline mb-2">Go back</router-link>
             <a v-for="user in users" :href="getUserUrl(user.username)" target="_blank"
                 class="flex items-center bg-white shadow p-3 rounded-full w-full">
