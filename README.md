@@ -1,8 +1,8 @@
 <h1 align="center">My Links</h1>
 
-[![My Links][product-screenshot]](https://vue-ecommerce-seven.vercel.app/)
+[![My Links][product-screenshot]](https://vue-my-links.vercel.app/)
 
-<a align="center" href="https://vue-ecommerce-seven.vercel.app/">View Demo</a>
+<a align="center" href="https://vue-my-links.vercel.app/">View Demo</a>
 
 ### Built With
 
@@ -32,7 +32,7 @@ npm run build
 
 Santiago Betancur - santibeta82@gmail.com
 
-Project Link: [https://github.com/sbetav/vue-ecommerce](https://github.com/sbetav/vue-ecommerce)
+Project Link: [https://github.com/sbetav/vue-my-links](https://github.com/sbetav/vue-my-links)
 
 ### Acknowledgments
 
@@ -44,6 +44,5 @@ Project Link: [https://github.com/sbetav/vue-ecommerce](https://github.com/sbeta
 [vue-url]: https://vuejs.org/
 [tailwindcss]: https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=
 [tailwind-url]: https://tailwindcss.com/
-
-[firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+[firebase]: https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=
 [firebase-url]: https://firebase.google.com/
