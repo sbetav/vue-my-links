@@ -14,7 +14,7 @@
                 </router-link>
             </div>
         </div>
-        <img src="../assets/img/mockup.png" alt="Example image" class="w-80">
+        <img src="../assets/img/mockup.png" alt="Example image" style="width: 320px; height: 560px;">
     </section>
 </template>
 
